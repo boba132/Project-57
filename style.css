@@ -1,0 +1,24 @@
+body{
+    text-align: center;
+    background-color: #b6dcff;
+    font-size: 20px;
+}
+.line{
+    width: 75px;
+    margin: 8px auto;
+    height: 8px;
+    background-color: black;
+}
+#sketchingimage{
+    border-radius: 50%;
+    height: 150px;
+}
+.menu{
+    list-style: none;
+    font-family: cursive;
+    float:right;
+    top:10px;
+    right:30px;
+    cursor: pointer;
+    color: black;
+}
